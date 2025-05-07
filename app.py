@@ -4,8 +4,8 @@ import pandas as pd
 import numpy as np
 
 # Load model and feature list
-model = joblib.load(r"C:\Projects\MoneyHeist\cibil_model.pkl")
-model_features = joblib.load(r"C:\Projects\MoneyHeist\model_features.pkl")
+model = joblib.load("cibil_model.pkl")
+model_features = joblib.load("model_features.pkl")
 
 st.title("CIBIL Score Prediction App")
 
