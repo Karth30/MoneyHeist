@@ -27,3 +27,9 @@ Exporting the final model using joblib or pickle
 A Streamlit interface allows users to input:
 Monthly income, Credit history, Loan amount, etc.
 And get a predicted CIBIL score instantly.
+
+![image](https://github.com/user-attachments/assets/86b2c0ea-afe5-4b73-9f69-d2db7bc66387)
+
+![image](https://github.com/user-attachments/assets/4f86ca83-66e2-4281-ba30-20e3dd059674)
+
+
