@@ -28,8 +28,9 @@ A Streamlit interface allows users to input:
 Monthly income, Credit history, Loan amount, etc.
 And get a predicted CIBIL score instantly.
 
-![image](https://github.com/user-attachments/assets/86b2c0ea-afe5-4b73-9f69-d2db7bc66387)
+![image](https://github.com/user-attachments/assets/8f7d2343-40ed-4352-8a32-052d3e404400)
 
-![image](https://github.com/user-attachments/assets/4f86ca83-66e2-4281-ba30-20e3dd059674)
+![image](https://github.com/user-attachments/assets/23b79a7f-f9d7-42f4-8e9f-669c33e31aeb)
+
 
 
