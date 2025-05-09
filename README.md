@@ -12,14 +12,14 @@ Target Variable: CIBIL Score (numerical)
 ---
 
 ## Notebook Overview
-File: predictive-credit-risk-modeling.ipynb
+File: moneyheist.ipynb
 
 Steps:
 Data Preprocessing & Cleaning
 Feature Engineering
-Model Training (e.g., Linear Regression, Random Forest, etc.)
-Evaluation (R² score, MAE, RMSE)
-Exporting the final model using joblib or pickle
+Model Training ( Random Forest)
+Evaluation (R² score = 0.8841, MAE, RMSE)
+Exporting the final model as pkl file
 
 ---
 
