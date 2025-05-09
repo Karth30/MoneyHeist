@@ -18,7 +18,7 @@ Steps:
 Data Preprocessing & Cleaning
 Feature Engineering
 Model Training ( Random Forest)
-Evaluation (R² score = 0.8841, MAE, RMSE)
+Evaluation (R² score = 0.8841, MAE = 5.3, RMSE= 6.95)
 Exporting the final model as pkl file
 
 ---
